@@ -4,10 +4,6 @@
   "description": "",
   "main": "./dist/app.js",
   "scripts": {
-    "gulp": "gulp",
-    "gulp:webserver": "gulp webserver",
-    "prestart": "npm install",
-    "start": "npm-run-all --parallel gulp"
   },
   "author": "Vitaliy Zhyrytskyy",
   "license": "ISC",

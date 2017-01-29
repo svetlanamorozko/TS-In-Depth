@@ -1,3 +1,4 @@
 # TypeScript-In-Depth
 
-npm start
+1. npm install
+2. gulp
